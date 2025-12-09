@@ -2,7 +2,7 @@
 
 > **📢 公告：** 经与 GitHub 官方沟通，完成合规调整后将恢复"一键 Fork 部署"，请关注 **v4.0.0** 版本的更新
 
-<a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
+<a href="https://github.com/Jzoooooon/TrendRadar" title="TrendRadar">
   <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
 </a>
 
@@ -13,11 +13,11 @@
 <a href="https://share.302.ai/mEOUzG" target="_blank" title="一站式 AI 模型和 API 平台"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
 <a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="51"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/Jzoooooon/TrendRadar/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/Jzoooooon/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v3.5.0-blue.svg)](https://github.com/sansan0/TrendRadar)
-[![MCP](https://img.shields.io/badge/MCP-v1.0.3-green.svg)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v3.5.0-blue.svg)](https://github.com/Jzoooooon/TrendRadar)
+[![MCP](https://img.shields.io/badge/MCP-v1.0.3-green.svg)](https://github.com/Jzoooooon/TrendRadar)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![个人微信通知](https://img.shields.io/badge/个人微信-通知-00D4AA?style=flat-square)](https://weixin.qq.com/)
@@ -30,7 +30,7 @@
 [![Slack通知](https://img.shields.io/badge/Slack-通知-00D4AA?style=flat-square)](https://slack.com/)
 
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/sansan0/TrendRadar)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/Jzoooooon/TrendRadar)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
 [![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
@@ -103,7 +103,7 @@
 
 **在当前阶段，若后续教程中仍出现 "Fork" 相关表述，请一律忽略或将其理解为 "Use this template"**。
 
-👉 **[点击此处查看 TrendRadar 最新官方文档](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)**
+👉 **[点击此处查看 TrendRadar 最新官方文档](https://github.com/Jzoooooon/TrendRadar?tab=readme-ov-file)**
 
 </details>
 
@@ -387,7 +387,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 ## 📝 更新日志
 
 >**升级说明**：
-- **📌 查看最新更新**：**[原仓库更新日志](https://github.com/sansan0/TrendRadar?tab=readme-ov-file#-更新日志)**
+- **📌 查看最新更新**：**[原仓库更新日志](https://github.com/Jzoooooon/TrendRadar?tab=readme-ov-file#-更新日志)**
 - **提示**：不要通过 **Sync fork** 更新本项目，建议查看【历史更新】，明确具体的【升级方式】和【功能内容】
 - **小版本更新**：从 v2.x 升级到 v2.y，用本项目的 `main.py` 代码替换你 fork 仓库中的对应文件
 - **大版本升级**：从 v1.x 升级到 v2.y，建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
@@ -522,7 +522,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 > 📖 **详细配置教程**：[快速开始 - Bark 推送](#-快速开始)
 
 **🐛 Bug 修复**
-- 修复 `config.yaml` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/sansan0/TrendRadar/issues/345))
+- 修复 `config.yaml` 中 `ntfy_server_url` 配置不生效的问题 ([#345](https://github.com/Jzoooooon/TrendRadar/issues/345))
 
 **🔧 升级说明**：
 - **GitHub Fork 用户**：更新 `main.py`、`config/config.yaml`、`.github/workflows/crawler.yml`
@@ -637,7 +637,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/10/10 - v2.4.3
 
-> 感谢 [nidaye996](https://github.com/sansan0/TrendRadar/issues/98) 发现的体验问题
+> 感谢 [nidaye996](https://github.com/Jzoooooon/TrendRadar/issues/98) 发现的体验问题
 
 - **更新内容**：
     - 重构"静默推送模式"命名为"推送时间窗口控制"，提升功能理解度
@@ -679,7 +679,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 
 ### 2025/09/26 - v2.3.2
 
-- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/sansan0/TrendRadar/issues/88)）
+- 修正了邮件通知配置检查被遗漏的问题（[#88](https://github.com/Jzoooooon/TrendRadar/issues/88)）
 
 **修复说明**：
 - 解决了即使正确配置邮件通知，系统仍提示"未配置任何webhook"的问题
@@ -782,7 +782,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 ### 2025/06/21 - v1.2.1
 
 在本版本之前的旧版本，不仅 main.py 需要复制替换， crawler.yml 也需要你复制替换
-https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
+https://github.com/Jzoooooon/TrendRadar/blob/master/.github/workflows/crawler.yml
 
 ### 2025/06/19 - v1.2.0
 
@@ -855,7 +855,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
 ## 🚀 快速开始
 
-> **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/sansan0/TrendRadar?tab=readme-ov-file)**，确保配置步骤是最新的。
+> **📖 提醒**：Fork 用户建议先 **[查看最新官方文档](https://github.com/Jzoooooon/TrendRadar?tab=readme-ov-file)**，确保配置步骤是最新的。
 
 1. **Fork 本项目**到你的 GitHub 账户
 
@@ -964,7 +964,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
 
    有两个方案，**方案一**配置简单，**方案二**配置复杂(但是稳定推送)
 
-   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/sansan0/TrendRadar/issues/97) ，
+   其中方案一，由 **ziventian**发现并提供建议，在这里感谢他，默认是个人推送，也可以配置群组推送操作[#97](https://github.com/Jzoooooon/TrendRadar/issues/97) ，
 
    **方案一：**
 
@@ -1159,12 +1159,12 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    > **自动识别**：使用以上邮箱时，无需手动配置 `EMAIL_SMTP_SERVER` 和 `EMAIL_SMTP_PORT`，系统会自动识别。
    >
    > **反馈说明**：
-   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/sansan0/TrendRadar/issues) 告知，我会添加到支持列表
-   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/sansan0/TrendRadar/issues) 反馈，帮助改进项目
+   > - 如果你使用**其他邮箱**测试成功，欢迎开 [Issues](https://github.com/Jzoooooon/TrendRadar/issues) 告知，我会添加到支持列表
+   > - 如果上述邮箱配置有误或无法使用，也请开 [Issues](https://github.com/Jzoooooon/TrendRadar/issues) 反馈，帮助改进项目
    >
    > **特别感谢**：
-   > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/sansan0/TrendRadar/issues/291))
-   > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/sansan0/TrendRadar/issues/344))
+   > - 感谢 [@DYZYD](https://github.com/DYZYD) 贡献天翼邮箱（189.cn）配置并完成自发自收测试 ([#291](https://github.com/Jzoooooon/TrendRadar/issues/291))
+   > - 感谢 [@longzhenren](https://github.com/longzhenren) 贡献阿里云邮箱（aliyun.com）配置并完成测试 ([#344](https://github.com/Jzoooooon/TrendRadar/issues/344))
 
    **常见邮箱设置：**
 
@@ -1484,13 +1484,13 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
    - **方法二**：直接访问 `https://github.com/你的用户名/TrendRadar/actions`
 
    **示例对比**：
-   - ❌ 作者的项目：`https://github.com/sansan0/TrendRadar/actions`
+   - ❌ 作者的项目：`https://github.com/Jzoooooon/TrendRadar/actions`
    - ✅ 你的项目：`https://github.com/你的用户名/TrendRadar/actions`
 
    **测试步骤**：
    1. 进入你项目的 Actions 页面
    2. 找到 **"Hot News Crawler"** 点进去
-      - 如果看不到该字样，参照 [#109](https://github.com/sansan0/TrendRadar/issues/109) 解决
+      - 如果看不到该字样，参照 [#109](https://github.com/Jzoooooon/TrendRadar/issues/109) 解决
    3. 点击右侧的 **"Run workflow"** 按钮运行
    4. 等待 1 分钟左右，消息会推送到你配置的平台
 
@@ -1566,7 +1566,7 @@ platforms:
   # 添加更多平台...
 ```
 
-> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/sansan0/TrendRadar/issues/95)
+> 💡 **快捷方式**：如果不会看源代码，可以复制他人整理好的 [平台配置汇总](https://github.com/Jzoooooon/TrendRadar/issues/95)
 
 > ⚠️ **注意**：平台不是越多越好，建议选择 10-15 个核心平台。过多平台会导致信息过载，反而降低使用体验。
 
@@ -2053,7 +2053,7 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    **方式 1-A：使用 git clone（推荐，最简单）**
    ```bash
    # 克隆项目到本地
-   git clone https://github.com/sansan0/TrendRadar.git
+   git clone https://github.com/Jzoooooon/TrendRadar.git
    cd TrendRadar
    ```
 
@@ -2165,7 +2165,7 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
 
 ```bash
 # 克隆项目
-git clone https://github.com/sansan0/TrendRadar.git
+git clone https://github.com/Jzoooooon/TrendRadar.git
 cd TrendRadar
 
 # 修改配置文件

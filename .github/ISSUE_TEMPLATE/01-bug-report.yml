@@ -5,7 +5,7 @@ description: 程序运行不正常或出现错误
 title: "[问题] "
 labels: ["bug"]
 assignees:
-  - sansan0
+  - Jzoooooon
 body:
   - type: markdown
     attributes:

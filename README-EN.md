@@ -8,13 +8,13 @@
 
 🚀 Deploy in <strong>30 seconds</strong> — Say goodbye to endless scrolling, only see the news you truly care about
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="Jzoooooon%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://share.302.ai/mEOUzG" target="_blank" title="One-stop AI Models & APIs Platform"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
 <a href="https://shandianshuo.cn" target="_blank" title="AI Voice Input, 4x Faster Than Typing ⚡"><img src="_image/shandianshuo.png" alt="FlashSpeak logo" height="51"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/Jzoooooon/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/Jzoooooon/TrendRadar/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/Jzoooooon/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/Jzoooooon/TrendRadar/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Jzoooooon/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/Jzoooooon/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v3.5.0-blue.svg)](https://github.com/Jzoooooon/TrendRadar)
 [![MCP](https://img.shields.io/badge/MCP-v1.0.3-green.svg)](https://github.com/Jzoooooon/TrendRadar)
@@ -31,7 +31,7 @@
 
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/Jzoooooon/TrendRadar)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployment-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployment-4285F4?style=flat-square&logo=github&logoColor=white)](https://Jzoooooon.github.io/TrendRadar)
 [![Docker](https://img.shields.io/badge/Docker-Deployment-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI_Analysis-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
 
@@ -319,7 +319,7 @@ One-click GitHub Fork to use, no programming required.
 >
 > 1-minute deployment: WeWork (mobile notification)
 
-**💡 Tip:** Want a **real-time updated** web version? After forking, go to your repo Settings → Pages and enable GitHub Pages. [Preview Effect](https://sansan0.github.io/TrendRadar/).
+**💡 Tip:** Want a **real-time updated** web version? After forking, go to your repo Settings → Pages and enable GitHub Pages. [Preview Effect](https://Jzoooooon.github.io/TrendRadar/).
 
 ### **Reduce APP Dependencies**
 
@@ -2036,12 +2036,12 @@ TrendRadar provides two independent Docker images, deploy according to your need
    cd trendradar
 
    # Download config file templates
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/config/config.yaml -P config/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/config/frequency_words.txt -P config/
 
    # Download docker-compose config
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env -P docker/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml -P docker/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/.env -P docker/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/docker-compose.yml -P docker/
    ```
 
    > 💡 **Note**: Key directory structure required for Docker deployment:
@@ -2325,7 +2325,7 @@ Use docker-compose to start both news push and MCP services:
 
 ```bash
 # Download latest docker-compose.yml (includes MCP service config)
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml
+wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/docker-compose.yml
 
 # Start all services
 docker-compose up -d
@@ -3350,17 +3350,17 @@ A: You can top up as needed, pay-as-you-go. Major AI model prices are now relati
 - If you have niche requirements, you can develop based on my project yourself, even with zero programming experience
 - All my open-source projects use my own **AI-assisted software** to improve development efficiency, this tool is now open-source
 - **Core Function**: Quickly filter project code to feed AI, you just need to add personal requirements
-- **Project Address**: https://github.com/sansan0/ai-code-context-helper
+- **Project Address**: https://github.com/Jzoooooon/ai-code-context-helper
 
 ### Other Projects
 
 > 📍 Chairman Mao's Footprint Map - Interactive dynamic display of complete trajectory 1893-1976. Welcome comrades to contribute data
 
-- https://github.com/sansan0/mao-map
+- https://github.com/Jzoooooon/mao-map
 
 > Bilibili Comment Data Visualization Analysis Software
 
-- https://github.com/sansan0/bilibili-comment-analyzer
+- https://github.com/Jzoooooon/bilibili-comment-analyzer
 
 
 ### Project Workflow Diagram
@@ -3414,7 +3414,7 @@ flowchart TD
     style Q fill:#c8e6c9
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Jzoooooon/TrendRadar&type=Date)](https://www.star-history.com/#Jzoooooon/TrendRadar&Date)
 
 <br>
 

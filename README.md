@@ -8,13 +8,13 @@
 
 🚀 最快<strong>30秒</strong>部署的热点助手 —— 告别无效刷屏，只看真正关心的新闻资讯
 
-<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="sansan0%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/14726" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14726" alt="Jzoooooon%2FTrendRadar | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 <a href="https://share.302.ai/mEOUzG" target="_blank" title="一站式 AI 模型和 API 平台"><img src="_image/302ai.png" alt="302.AI logo" height="50"/></a>
 <a href="https://shandianshuo.cn" target="_blank" title="AI 语音输入，比打字快 4 倍 ⚡"><img src="_image/shandianshuo.png" alt="闪电说 logo" height="51"/></a>
 
-[![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/Jzoooooon/TrendRadar/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/Jzoooooon/TrendRadar/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/Jzoooooon/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/Jzoooooon/TrendRadar/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Jzoooooon/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/Jzoooooon/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v3.5.0-blue.svg)](https://github.com/Jzoooooon/TrendRadar)
 [![MCP](https://img.shields.io/badge/MCP-v1.0.3-green.svg)](https://github.com/Jzoooooon/TrendRadar)
@@ -31,7 +31,7 @@
 
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-自动化-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/Jzoooooon/TrendRadar)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://sansan0.github.io/TrendRadar)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-部署-4285F4?style=flat-square&logo=github&logoColor=white)](https://Jzoooooon.github.io/TrendRadar)
 [![Docker](https://img.shields.io/badge/Docker-部署-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/r/wantcat/trendradar)
 [![MCP Support](https://img.shields.io/badge/MCP-AI分析支持-FF6B6B?style=flat-square&logo=ai&logoColor=white)](https://modelcontextprotocol.io/)
 
@@ -367,7 +367,7 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 >
 > 1分钟部署： 企业微信（手机通知）
 
-**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://sansan0.github.io/TrendRadar/)。
+**💡 提示：** 想要**实时更新**的网页版？fork 后，进入你的仓库 Settings → Pages，启用 GitHub Pages。[效果预览](https://Jzoooooon.github.io/TrendRadar/)。
 
 ### **减少 APP 依赖**
 
@@ -2064,12 +2064,12 @@ TrendRadar 提供两个独立的 Docker 镜像，可根据需求选择部署：
    cd trendradar
 
    # 下载配置文件模板
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/config.yaml -P config/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/config/frequency_words.txt -P config/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/config/config.yaml -P config/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/config/frequency_words.txt -P config/
 
    # 下载 docker-compose 配置
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/.env  -P docker/
-   wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml  -P docker/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/.env  -P docker/
+   wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/docker-compose.yml  -P docker/
    ```
 
    > 💡 **说明**：Docker 部署需要的关键目录结构如下：
@@ -2353,7 +2353,7 @@ flowchart TB
 
 ```bash
 # 下载最新的 docker-compose.yml（已包含 MCP 服务配置）
-wget https://raw.githubusercontent.com/sansan0/TrendRadar/master/docker/docker-compose.yml
+wget https://raw.githubusercontent.com/Jzoooooon/TrendRadar/master/docker/docker-compose.yml
 
 # 启动所有服务
 docker-compose up -d
@@ -3362,17 +3362,17 @@ A: 可以按需充值，按量付费。目前大厂模型价格已相对亲民�
 - 如果你有小众需求，完全可以基于我的项目自行开发，零编程基础的也可以试试
 - 我所有的开源项目或多或少都使用了自己写的**AI辅助软件**来提升开发效率，这款工具已开源
 - **核心功能**：迅速筛选项目代码喂给AI，你只需要补充个人需求即可
-- **项目地址**：https://github.com/sansan0/ai-code-context-helper
+- **项目地址**：https://github.com/Jzoooooon/ai-code-context-helper
 
 ### 其余项目
 
 > 📍 毛主席足迹地图 - 交互式动态展示1893-1976年完整轨迹。欢迎诸位同志贡献数据
 
-- https://github.com/sansan0/mao-map
+- https://github.com/Jzoooooon/mao-map
 
 > 哔哩哔哩(bilibili)评论区数据可视化分析软件
 
-- https://github.com/sansan0/bilibili-comment-analyzer
+- https://github.com/Jzoooooon/bilibili-comment-analyzer
 
 
 ### 本项目流程图
@@ -3426,7 +3426,7 @@ flowchart TD
     style Q fill:#c8e6c9
 ```
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sansan0/TrendRadar&type=Date)](https://www.star-history.com/#sansan0/TrendRadar&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Jzoooooon/TrendRadar&type=Date)](https://www.star-history.com/#Jzoooooon/TrendRadar&Date)
 
 <br>
 

@@ -4432,12 +4432,12 @@ def send_to_email(
 
         # 添加纯文本部分（作为备选）
         text_content = f"""
-TrendRadar 热点分析报告
-========================
-报告类型：{report_type}
-生成时间：{now.strftime('%Y-%m-%d %H:%M:%S')}
+            TrendRadar 热点分析报告
+            ========================
+            报告类型：{report_type}
+            生成时间：{now.strftime('%Y-%m-%d %H:%M:%S')}
 
-请使用支持HTML的邮件客户端查看完整报告内容。
+            请使用支持HTML的邮件客户端查看完整报告内容。
         """
         text_part = MIMEText(text_content, "plain", "utf-8")
         msg.attach(text_part)
